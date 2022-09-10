@@ -1,0 +1,79 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-82,
+				170
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "FINAL MIKI IDLE"
+		},
+		{
+			"offsets": [
+				43,
+				150
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "FINAL MIKI LEFT"
+		},
+		{
+			"offsets": [
+				-82,
+				89
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "FINAL MIKI DOWN"
+		},
+		{
+			"offsets": [
+				-82,
+				265
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "FINAL MIKI UP"
+		},
+		{
+			"offsets": [
+				-82,
+				164
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "FINAL MIKI RIGHT"
+		}
+	],
+	"dataType": "JSON",
+	"no_antialiasing": false,
+	"image": "characters/Prisoner_Mickey",
+	"position": [
+		80,
+		370
+	],
+	"healthicon": "mickeyprison",
+	"flip_x": true,
+	"healthbar_colors": [
+		127,
+		130,
+		126
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 3.90000000000001,
+	"scale": 1.2
+}

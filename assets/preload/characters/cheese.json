@@ -1,0 +1,79 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-55
+			],
+			"anim": "singRIGHT",
+			"fps": 22,
+			"name": "Cheddar-right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				1,
+				-15
+			],
+			"anim": "singLEFT",
+			"fps": 22,
+			"name": "Cheddar-left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				1,
+				87
+			],
+			"anim": "singUP",
+			"fps": 22,
+			"name": "Cheddar-up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				65,
+				-162
+			],
+			"anim": "singDOWN",
+			"fps": 22,
+			"name": "Cheddar-down",
+			"indices": []
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Cheddar-idle"
+		}
+	],
+	"dataType": "JSON",
+	"no_antialiasing": false,
+	"image": "characters/Chedder",
+	"position": [
+		-250,
+		50
+	],
+	"healthicon": "cheese",
+	"flip_x": false,
+	"healthbar_colors": [
+		76,
+		70,
+		63
+	],
+	"camera_position": [
+		50,
+		50
+	],
+	"sing_duration": 4.00000000000001,
+	"scale": 1.2
+}

@@ -1,0 +1,79 @@
+{
+	"animations": [
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "smile mouse idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				13,
+				12
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "smile mouse up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-11,
+				34
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "smile mouse rigth",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				33,
+				60
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "smile mouse left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-27,
+				-139
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "smile mouse down",
+			"indices": []
+		}
+	],
+	"dataType": "JSON",
+	"no_antialiasing": false,
+	"image": "characters/Mouse_Phase2",
+	"position": [
+		-135,
+		115
+	],
+	"healthicon": "dad",
+	"flip_x": false,
+	"healthbar_colors": [
+		82,
+		89,
+		81
+	],
+	"camera_position": [
+		-120,
+		30
+	],
+	"sing_duration": 4,
+	"scale": 1.2
+}
