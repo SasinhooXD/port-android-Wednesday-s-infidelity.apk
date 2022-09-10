@@ -1,0 +1,112 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-58,
+				-161
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "MIKI RIGHT"
+		},
+		{
+			"offsets": [
+				-58,
+				-190
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "MIKI DOWN"
+		},
+		{
+			"offsets": [
+				-28,
+				-110
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "MIKI UP"
+		},
+		{
+			"offsets": [
+				79,
+				-127
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "MIKI LEFT"
+		},
+		{
+			"offsets": [
+				92,
+				-78
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "wafiu",
+			"indices": [],
+			"name": "MIKI WAIFU"
+		},
+		{
+			"offsets": [
+				-7,
+				-71
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "book",
+			"indices": [],
+			"name": "LEAKERS NOOBS"
+		},
+		{
+			"offsets": [
+				21,
+				-105
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "whats that",
+			"indices": [],
+			"name": "MIKI WHATS THAT"
+		},
+		{
+			"offsets": [
+				2,
+				-120
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "MIKI IDLE"
+		}
+	],
+	"dataType": "JSON",
+	"no_antialiasing": false,
+	"image": "characters/leakers/MICKEY LEAKER",
+	"position": [
+		-70,
+		0
+	],
+	"healthicon": "mickeyandsatan",
+	"flip_x": false,
+	"healthbar_colors": [
+		83,
+		71,
+		71
+	],
+	"camera_position": [
+		-10,
+		-480
+	],
+	"sing_duration": 4,
+	"scale": 1.2
+}

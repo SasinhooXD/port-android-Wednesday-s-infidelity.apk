@@ -1,0 +1,186 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				18
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "sad",
+			"indices": [],
+			"name": "GF JU"
+		},
+		{
+			"offsets": [
+				0,
+				-8
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "danceLeft",
+			"indices": [],
+			"name": "GF IDLE"
+		},
+		{
+			"offsets": [
+				0,
+				-8
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "danceRight",
+			"indices": [],
+			"name": "GF IDLE"
+		},
+		{
+			"offsets": [
+				-541,
+				304
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "danceLeft-alt",
+			"indices": [],
+			"name": "DONALD IDLE"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-541,
+				304
+			],
+			"anim": "danceRight-alt",
+			"fps": 24,
+			"name": "DONALD IDLE",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-429,
+				220
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "DONALD LEFT",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-572,
+				279
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "DONALD DOWN",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-611,
+				416
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "DONALD UP",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-620,
+				340
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "DONALD RIGHT",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				7,
+				1106
+			],
+			"anim": "appear",
+			"fps": 24,
+			"name": "DUCK APARITION",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-623,
+				-355
+			],
+			"anim": "danceLeft-dead",
+			"fps": 24,
+			"name": "DONALD DEATH IDLE",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-623,
+				-355
+			],
+			"anim": "danceRight-dead",
+			"fps": 24,
+			"name": "DONALD DEATH IDLE",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-542,
+				293
+			],
+			"anim": "die",
+			"fps": 24,
+			"name": "DONALD DEATH",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13,
+				14,
+				15,
+				16,
+				17
+			]
+		}
+	],
+	"dataType": "JSON",
+	"no_antialiasing": true,
+	"image": "characters/accelerant/accelerant_gf",
+	"position": [
+		-160,
+		-280
+	],
+	"healthicon": "donald",
+	"flip_x": false,
+	"healthbar_colors": [
+		103,
+		103,
+		103
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1.2
+}
