@@ -1,0 +1,50 @@
+{
+	"storyName": "Is Suicide Really the Best Option...?",
+	"difficulties": "",
+	"hideFreeplay": false,
+	"weekBackground": "suicide",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"Wistfulness",
+			"mouse-sad",
+			[
+				82,
+				89,
+				81
+			]
+		],
+		[
+			"Dejection",
+			"dad",
+			[
+				82,
+				89,
+				81
+			]
+		],
+		[
+			"Unknown Suffering",
+			"mouse",
+			[
+				82,
+				89,
+				81
+			]
+		]
+	],
+	"weekCharacters": [
+		"dad",
+		"dad",
+		"dad"
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "Week W.I"
+}
